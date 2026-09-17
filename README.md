@@ -228,27 +228,31 @@ Learning Git, GitHub, databases, APIs and professional development workflows.
 
 <!-- ==================== CONNECT ==================== -->
 
+---
+
 ## 🤝 Connect With Me
 
 <div align="center">
 
-<a href="https://github.com/gauravfarswan">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" height="35"/>
+<a href="https://github.com/gauravfarswan" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
-&nbsp;&nbsp;
 
-<a href="https://www.linkedin.com/in/gaurav-singh-farswan-34683337">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="35"/>
+&nbsp;&nbsp;&nbsp;
+
+<a href="https://www.linkedin.com/in/gaurav-singh-farswan-34683337" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
-&nbsp;&nbsp;
+
+&nbsp;&nbsp;&nbsp;
 
 <a href="mailto:YOUR_EMAIL@gmail.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" height="35"/>
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
 
 <br><br>
 
-<i>Let's connect, learn and build together 🚀</i>
+<sub>Let's connect, learn and build together 🚀</sub>
 
 </div>
 
