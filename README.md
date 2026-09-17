@@ -1,5 +1,11 @@
 <div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,50:06B6D4,100:8B5CF6&height=220&section=header&text=GAURAV%20SINGH%20FARsWAN&fontSize=38&fontColor=FFFFFF&fontAlignY=38&desc=CSE%20STUDENT%20%7C%20ASPIRING%20SOFTWARE%20DEVELOPER&descAlignY=58&descSize=17&animation=fadeIn" width="100%"/>
+
+</div>
+
+<div align="center">
+
 # 👋 Hey, I'm Gaurav Singh Farswan
 
 ### `CSE Student` • `Aspiring Software Developer` • `Problem Solver`
