@@ -85,7 +85,7 @@ I believe in learning by building — turning concepts into real projects, solvi
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/C++23-512BD4?style=for-the-badge&logo=csharp&logoColor=white"/>
+<img src="https://img.shields.io/badge/C++-512BD4?style=for-the-badge&logo=csharp&logoColor=white"/>
 
 <br>
 
@@ -108,13 +108,13 @@ I believe in learning by building — turning concepts into real projects, solvi
 
 ### ⚙️ Backend & Database
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,firebase&theme=light&perline=5" height="55"/>
+<img src="https://skillicons.dev/icons?i=nodejs,mongodb,mysql&theme=light&perline=5" height="55"/>
 
 <br><br>
 
 ### 🔧 Tools & Development
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,docker&theme=light&perline=4" height="55"/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode&theme=light&perline=4" height="55"/>
 
 </div>
 ## 🚀 What I'm Currently Learning
@@ -209,6 +209,8 @@ Currently focused on:
 </a>
 
 </div>
+
+---
 
 ### ⭐ Thanks for visiting my profile!
 
