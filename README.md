@@ -119,6 +119,18 @@ Currently learning how frontend, backend, APIs, and databases work together.
 <tr>
 <td width="50%">
 
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=gaurav&show_icons=true&theme=transparent&hide_border=true&title_color=2563EB&icon_color=7C3AED&text_color=334155&bg_color=00000000" height="165"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=gaurav&theme=transparent&hide_border=true&ring=2563EB&fire=7C3AED&currStreakLabel=2563EB&background=00000000" height="165"/>
+
+</div>
+
 ### 🧩 LeetCode
 
 Practicing coding problems to improve algorithmic thinking and problem-solving.
