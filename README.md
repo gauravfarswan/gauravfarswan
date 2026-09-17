@@ -69,30 +69,28 @@ I believe in learning by building — turning concepts into real projects, solvi
 
 ---
 
+---
+
 ## 🛠️ Tech Stack
+
+<p align="center">
 
 ### 💻 Languages
 
-<p>
-  <img src="https://skillicons.dev/icons?i=java,javascript,python,cs" />
-</p>
+<img src="https://skillicons.dev/icons?i=java,javascript,python,cs" height="35"/>
 
 ### 🌐 Frontend
 
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,react" />
-</p>
+<img src="https://skillicons.dev/icons?i=html,css,react" height="35"/>
 
 ### ⚙️ Backend & Database
 
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,firebase" />
-</p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,firebase" height="35"/>
 
 ### 🔧 Tools
 
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,docker" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,docker" height="35"/>
+
 </p>
 
 ## 🚀 What I'm Working On
