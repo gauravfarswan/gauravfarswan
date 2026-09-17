@@ -37,6 +37,47 @@ I'm currently focused on **learning Java, Data Structures & Algorithms, and Full
 I believe in learning by building — turning concepts into real projects, solving problems, and improving one step at a time.
 
 ---
+---
+
+## 🚀 My Journey
+
+<table>
+<tr>
+
+<td align="center">
+🎓<br>
+<b>CSE Student</b><br>
+<sub>Building my CS foundation</sub>
+</td>
+
+<td align="center">→</td>
+
+<td align="center">
+☕<br>
+<b>Java & DSA</b><br>
+<sub>Learning & problem solving</sub>
+</td>
+
+<td align="center">→</td>
+
+<td align="center">
+💻<br>
+<b>Full-Stack Development</b><br>
+<sub>Currently learning</sub>
+</td>
+
+<td align="center">→</td>
+
+<td align="center">
+🎯<br>
+<b>Software Developer</b><br>
+<sub>My career goal</sub>
+</td>
+
+</tr>
+</table>
+
+---
 
 ## 🚀 My Journey
 
