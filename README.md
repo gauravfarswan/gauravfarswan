@@ -84,24 +84,27 @@ I believe in learning by building — turning concepts into real projects, solvi
 
 ### 💻 Languages
 
-<img src="https://skillicons.dev/icons?i=java,javascript,python,cs" height="35"/>
+<img src="https://skillicons.dev/icons?i=java,javascript,python,cs&theme=light&perline=4" height="55"/>
+
+<br><br>
 
 ### 🌐 Frontend
 
-<img src="https://skillicons.dev/icons?i=html,css,react" height="35"/>
+<img src="https://skillicons.dev/icons?i=html,css,react&theme=light&perline=3" height="55"/>
+
+<br><br>
 
 ### ⚙️ Backend & Database
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,firebase" height="35"/>
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,firebase&theme=light&perline=5" height="55"/>
 
-### 🔧 Tools
+<br><br>
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,docker" height="35"/>
+### 🔧 Tools & Development
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,docker&theme=light&perline=4" height="55"/>
 
 </div>
-
----
-
 ## 🚀 What I'm Currently Learning
 
 <table>
