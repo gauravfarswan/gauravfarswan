@@ -95,6 +95,8 @@ I believe in learning by building — turning concepts into real projects, solvi
 
 ---
 
+---
+
 ## 🚀 What I'm Currently Learning
 
 <table>
@@ -119,18 +121,6 @@ Currently learning how frontend, backend, APIs, and databases work together.
 <tr>
 <td width="50%">
 
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=gaurav&show_icons=true&theme=transparent&hide_border=true&title_color=2563EB&icon_color=7C3AED&text_color=334155&bg_color=00000000" height="165"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=gaurav&theme=transparent&hide_border=true&ring=2563EB&fire=7C3AED&currStreakLabel=2563EB&background=00000000" height="165"/>
-
-</div>
-
 ### 🧩 LeetCode
 
 Practicing coding problems to improve algorithmic thinking and problem-solving.
@@ -147,20 +137,49 @@ Learning Git, GitHub, databases, APIs, and professional development workflows.
 </tr>
 </table>
 
+---
+
 ## 🛠️ Tech Stack
 
-**Languages**
+<div align="center">
 
-`Java` `JavaScript` `Python` `C#`
+### 💻 Languages
 
-**Frontend**
+<img src="https://skillicons.dev/icons?i=java,javascript,python,cs" height="35"/>
 
-`HTML` `CSS` `JavaScript` `React`
+### 🌐 Frontend
 
-**Backend & Database**
+<img src="https://skillicons.dev/icons?i=html,css,react" height="35"/>
 
-`Node.js` `Express` `SQL` `MongoDB` `Firebase`
+### ⚙️ Backend & Database
 
-**Tools**
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,firebase" height="35"/>
 
-`Git` `GitHub` `VS Code`
+### 🔧 Tools
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,docker" height="35"/>
+
+</div>
+
+---
+
+## 🧠 DSA & Problem Solving
+
+Currently focused on:
+
+- ☕ Java Programming
+- 🧩 Data Structures & Algorithms
+- 💡 Problem Solving
+- 🏆 LeetCode Practice
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=gaurav&show_icons=true&hide_border=true&theme=transparent" height="160"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=gaurav&hide_border=true&theme=transparent" height="160"/>
+
+</div>
