@@ -44,8 +44,6 @@ I believe in learning by building — turning concepts into real projects, solvi
 
 <!-- ==================== MY JOURNEY ==================== -->
 
----
-
 ## 🚀 My Journey
 
 <table>
@@ -224,10 +222,6 @@ Learning Git, GitHub, databases, APIs and professional development workflows.
 ---
 
 <!-- ==================== CONNECT ==================== -->
-
----
-
----
 
 ## 🤝 Connect With Me
 
