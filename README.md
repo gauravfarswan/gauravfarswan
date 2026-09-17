@@ -46,87 +46,43 @@ I believe in learning by building — turning concepts into real projects, solvi
 
 ---
 
----
-
 ## 🚀 My Journey
-
-<div align="center">
 
 <table>
 <tr>
 
-<td align="center" width="22%">
-
-<h2>🎓</h2>
-
-<h3>CSE Student</h3>
-
-<sub>Building my<br>CS foundation</sub>
-
+<td align="center">
+🎓<br>
+<b>CSE Student</b><br>
+<sub>Building my CS foundation</sub>
 </td>
 
-<td align="center" width="4%">
+<td>→</td>
 
-<h2>→</h2>
-
+<td align="center">
+☕<br>
+<b>Java & DSA</b><br>
+<sub>Learning & problem solving</sub>
 </td>
 
-<td align="center" width="22%">
+<td>→</td>
 
-<h2>☕</h2>
-
-<h3>Java & DSA</h3>
-
-<sub>Learning &<br>problem solving</sub>
-
+<td align="center">
+💻<br>
+<b>Full-Stack Development</b><br>
+<sub>Currently learning</sub>
 </td>
 
-<td align="center" width="4%">
+<td>→</td>
 
-<h2>→</h2>
-
-</td>
-
-<td align="center" width="22%">
-
-<h2>💻</h2>
-
-<h3>Full-Stack</h3>
-
-<sub>Currently<br>learning</sub>
-
-</td>
-
-<td align="center" width="4%">
-
-<h2>→</h2>
-
-</td>
-
-<td align="center" width="22%">
-
-<h2>🎯</h2>
-
-<h3>Software Developer</h3>
-
-<sub>My career<br>goal</sub>
-
+<td align="center">
+🎯<br>
+<b>Software Developer</b><br>
+<sub>My career goal</sub>
 </td>
 
 </tr>
 </table>
-
-<br>
-
-<img src="https://img.shields.io/badge/LEARN-2563EB?style=for-the-badge"/>
-&nbsp;
-<img src="https://img.shields.io/badge/BUILD-0891B2?style=for-the-badge"/>
-&nbsp;
-<img src="https://img.shields.io/badge/SOLVE-7C3AED?style=for-the-badge"/>
-&nbsp;
-<img src="https://img.shields.io/badge/GROW-10B981?style=for-the-badge"/>
-
-</div>
 
 ---
 <!-- ==================== TECH STACK ==================== -->
