@@ -60,14 +60,6 @@ I believe in learning by building — turning concepts into real projects, solvi
 <td>→</td>
 
 <td align="center">
-🤖<br>
-<b>AI/ML</b><br>
-<sub>Exploring the field</sub>
-</td>
-
-<td>→</td>
-
-<td align="center">
 🎯<br>
 <b>Software Developer</b><br>
 <sub>My career goal</sub>
