@@ -44,16 +44,20 @@ I believe in learning by building — turning concepts into real projects, solvi
 
 <!-- ==================== MY JOURNEY ==================== -->
 
+---
+
 ## 🚀 My Journey
+
+<div align="center">
 
 <table>
 <tr>
 
-<td align="center" width="25%">
+<td align="center" width="23%">
 
 🎓
 
-<br>
+<br><br>
 
 <b>CSE Student</b>
 
@@ -63,17 +67,17 @@ I believe in learning by building — turning concepts into real projects, solvi
 
 </td>
 
-<td align="center" width="5%">
+<td align="center" width="3%">
 
-➡️
+➜
 
 </td>
 
-<td align="center" width="25%">
+<td align="center" width="23%">
 
 ☕
 
-<br>
+<br><br>
 
 <b>Java & DSA</b>
 
@@ -83,19 +87,19 @@ I believe in learning by building — turning concepts into real projects, solvi
 
 </td>
 
-<td align="center" width="5%">
+<td align="center" width="3%">
 
-➡️
+➜
 
 </td>
 
-<td align="center" width="25%">
+<td align="center" width="23%">
 
 💻
 
-<br>
+<br><br>
 
-<b>Full-Stack Development</b>
+<b>Full-Stack</b>
 
 <br>
 
@@ -103,17 +107,17 @@ I believe in learning by building — turning concepts into real projects, solvi
 
 </td>
 
-<td align="center" width="5%">
+<td align="center" width="3%">
 
-➡️
+➜
 
 </td>
 
-<td align="center" width="25%">
+<td align="center" width="23%">
 
 🎯
 
-<br>
+<br><br>
 
 <b>Software Developer</b>
 
@@ -126,8 +130,9 @@ I believe in learning by building — turning concepts into real projects, solvi
 </tr>
 </table>
 
----
+</div>
 
+---
 <!-- ==================== TECH STACK ==================== -->
 
 ## 🛠️ Tech Stack
@@ -276,20 +281,22 @@ Learning Git, GitHub, databases, APIs and professional development workflows.
 <div align="center">
 
 <a href="https://github.com/gauravfarswan">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" height="35"/>
 </a>
-
-&nbsp;
+&nbsp;&nbsp;
 
 <a href="https://www.linkedin.com/in/gaurav-singh-farswan-34683337">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="35"/>
 </a>
-
-&nbsp;
+&nbsp;&nbsp;
 
 <a href="mailto:YOUR_EMAIL@gmail.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" height="35"/>
 </a>
+
+<br><br>
+
+<i>Let's connect, learn and build together 🚀</i>
 
 </div>
 
