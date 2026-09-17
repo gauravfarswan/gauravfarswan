@@ -46,6 +46,8 @@ I believe in learning by building — turning concepts into real projects, solvi
 
 ---
 
+---
+
 ## 🚀 My Journey
 
 <div align="center">
@@ -53,82 +55,76 @@ I believe in learning by building — turning concepts into real projects, solvi
 <table>
 <tr>
 
-<td align="center" width="23%">
+<td align="center" width="22%">
 
-🎓
+<h2>🎓</h2>
 
-<br><br>
+<h3>CSE Student</h3>
 
-<b>CSE Student</b>
-
-<br>
-
-<sub>Building my CS foundation</sub>
+<sub>Building my<br>CS foundation</sub>
 
 </td>
 
-<td align="center" width="3%">
+<td align="center" width="4%">
 
-➜
-
-</td>
-
-<td align="center" width="23%">
-
-☕
-
-<br><br>
-
-<b>Java & DSA</b>
-
-<br>
-
-<sub>Learning & problem solving</sub>
+<h2>→</h2>
 
 </td>
 
-<td align="center" width="3%">
+<td align="center" width="22%">
 
-➜
+<h2>☕</h2>
 
-</td>
+<h3>Java & DSA</h3>
 
-<td align="center" width="23%">
-
-💻
-
-<br><br>
-
-<b>Full-Stack</b>
-
-<br>
-
-<sub>Currently learning</sub>
+<sub>Learning &<br>problem solving</sub>
 
 </td>
 
-<td align="center" width="3%">
+<td align="center" width="4%">
 
-➜
+<h2>→</h2>
 
 </td>
 
-<td align="center" width="23%">
+<td align="center" width="22%">
 
-🎯
+<h2>💻</h2>
 
-<br><br>
+<h3>Full-Stack</h3>
 
-<b>Software Developer</b>
+<sub>Currently<br>learning</sub>
 
-<br>
+</td>
 
-<sub>My career goal</sub>
+<td align="center" width="4%">
+
+<h2>→</h2>
+
+</td>
+
+<td align="center" width="22%">
+
+<h2>🎯</h2>
+
+<h3>Software Developer</h3>
+
+<sub>My career<br>goal</sub>
 
 </td>
 
 </tr>
 </table>
+
+<br>
+
+<img src="https://img.shields.io/badge/LEARN-2563EB?style=for-the-badge"/>
+&nbsp;
+<img src="https://img.shields.io/badge/BUILD-0891B2?style=for-the-badge"/>
+&nbsp;
+<img src="https://img.shields.io/badge/SOLVE-7C3AED?style=for-the-badge"/>
+&nbsp;
+<img src="https://img.shields.io/badge/GROW-10B981?style=for-the-badge"/>
 
 </div>
 
