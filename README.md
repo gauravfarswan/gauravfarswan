@@ -93,15 +93,47 @@ I believe in learning by building — turning concepts into real projects, solvi
 
 </p>
 
-## 🚀 What I'm Working On
-
-* ☕ Learning **Java & DSA**
-* 💻 Learning **Full-Stack Development**
-* 🤖 Exploring **AI/ML**
-* 🧩 Practicing **Problem Solving & LeetCode**
-* 🚀 Building projects to strengthen my development skills
-
 ---
+
+## 🚀 What I'm Currently Learning
+
+<table>
+<tr>
+<td width="50%">
+
+### ☕ Java & DSA
+
+Building strong fundamentals in Java and improving problem-solving skills through Data Structures & Algorithms.
+
+</td>
+
+<td width="50%">
+
+### 💻 Full-Stack Development
+
+Currently learning how frontend, backend, APIs, and databases work together.
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 🧩 LeetCode
+
+Practicing coding problems to improve algorithmic thinking and problem-solving.
+
+</td>
+
+<td width="50%">
+
+### 🔧 Development Skills
+
+Learning Git, GitHub, databases, APIs, and professional development workflows.
+
+</td>
+</tr>
+</table>
 
 ## 🛠️ Tech Stack
 
