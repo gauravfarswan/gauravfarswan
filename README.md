@@ -1,18 +1,23 @@
+<!-- ==================== BANNER ==================== -->
+
 <div align="center">
 
-<!-- 🚀 PROFILE BANNER -->
-<img src="YOUR_BANNER_IMAGE_URL" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,50:0891B2,100:7C3AED&height=220&section=header&text=GAURAV%20SINGH%20FARsWAN&fontSize=40&fontColor=FFFFFF&fontAlignY=38&desc=CSE%20STUDENT%20%7C%20ASPIRING%20SOFTWARE%20DEVELOPER&descAlignY=58&descSize=17"/>
 
-<br><br>
+</div>
+
+<br>
+
+<div align="center">
 
 # 👋 Hey, I'm Gaurav Singh Farswan
 
-### 💻 CSE Student &nbsp;•&nbsp; Aspiring Software Developer
+### `CSE Student` • `Aspiring Software Developer` • `Problem Solver`
 
 <p>
-  <img src="https://img.shields.io/badge/Java-☕-2563EB?style=for-the-badge&logo=openjdk&logoColor=white"/>
-  <img src="https://img.shields.io/badge/DSA-🧩-7C3AED?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Full--Stack-Development-0891B2?style=for-the-badge"/>
+  <b>☕ Learning Java & DSA</b>
+  &nbsp; • &nbsp;
+  <b>💻 Learning Full-Stack Development</b>
 </p>
 
 <p>
@@ -25,11 +30,11 @@
 
 ## 👨‍💻 About Me
 
-Hi! I'm **Gaurav Singh Farswan**, a Computer Science Engineering student passionate about learning software development and building practical projects.
+Hi! I'm **Gaurav Singh Farswan**, a Computer Science Engineering student who enjoys learning software development and building practical projects.
 
-🎯 Currently focused on **Java, Data Structures & Algorithms, Full-Stack Development, and Problem Solving**.
+I'm currently focused on **learning Java, Data Structures & Algorithms, and Full-Stack Development**.
 
-🚀 My goal is to continuously improve my development skills by **learning through projects and solving real-world problems**.
+I believe in learning by building — turning concepts into real projects, solving problems, and improving one step at a time.
 
 ---
 
@@ -44,7 +49,7 @@ Hi! I'm **Gaurav Singh Farswan**, a Computer Science Engineering student passion
 <sub>Building my CS foundation</sub>
 </td>
 
-<td align="center">→</td>
+<td>→</td>
 
 <td align="center">
 ☕<br>
@@ -52,7 +57,7 @@ Hi! I'm **Gaurav Singh Farswan**, a Computer Science Engineering student passion
 <sub>Learning & problem solving</sub>
 </td>
 
-<td align="center">→</td>
+<td>→</td>
 
 <td align="center">
 💻<br>
@@ -60,7 +65,7 @@ Hi! I'm **Gaurav Singh Farswan**, a Computer Science Engineering student passion
 <sub>Currently learning</sub>
 </td>
 
-<td align="center">→</td>
+<td>→</td>
 
 <td align="center">
 🎯<br>
@@ -145,17 +150,12 @@ Learning Git, GitHub, databases, APIs, and professional development workflows.
 
 ## 🧠 DSA & Problem Solving
 
-<div align="center">
+Currently focused on:
 
-### 🎯 Current Focus
-
-`Java` &nbsp; `Data Structures` &nbsp; `Algorithms` &nbsp; `Problem Solving` &nbsp; `LeetCode`
-
-<br>
-
-📚 **Learning → Practicing → Solving → Improving**
-
-</div>
+- ☕ Java
+- 🧩 Data Structures & Algorithms
+- 💡 Problem Solving
+- 🏆 LeetCode
 
 ---
 
@@ -163,69 +163,13 @@ Learning Git, GitHub, databases, APIs, and professional development workflows.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=gauravfarswan&show_icons=true&hide_border=true&theme=transparent" height="160"/>
+<img src="https://github-readme-stats.vercel.app/api?username=gauravfarswan&show_icons=true&hide_border=true&theme=transparent" height="165"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=gauravfarswan&hide_border=true&theme=transparent" height="160"/>
-
-</div>
-
----
-
-## 🚀 Featured Projects
-
-### 🏫 School Management System
-
-A web-based system designed to manage students, teachers, attendance, and academic information.
-
-**Tech:** `HTML` `CSS` `JavaScript` `Firebase`
-
----
-
-### 🏙️ AI-Powered Civic Complaint Management System
-
-A web application concept for submitting, tracking, and managing civic complaints digitally.
-
-**Tech:** `HTML` `CSS` `JavaScript` `Firebase`
-
----
-
-### 💻 Full-Stack Web Application
-
-A full-stack project focused on connecting a modern frontend with backend APIs and database services.
-
-**Tech:** `React` `Node.js` `Express` `MongoDB`
-
-> ⚠️ *Project details above are sample placeholders. Replace them with your actual projects and repository links later.*
-
----
-
-## 🏆 Achievements & Certifications
-
-- 🎓 Computer Science Engineering Student
-- ☕ Java & DSA Learning
-- 💻 Full-Stack Development Learning
-- 🧩 Regular Problem Solving Practice
-- 📜 Add your certifications here
-
----
-
-## 📫 Connect With Me
-
-<div align="center">
-
-<a href="https://github.com/gauravfarswan">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="YOUR_LINKEDIN_URL">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:YOUR_EMAIL">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+<img src="https://streak-stats.demolab.com/?user=gauravfarswan&hide_border=true&theme=transparent" height="165"/>
 
 </div>
+
+
 
 ---
 
