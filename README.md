@@ -44,45 +44,69 @@ I believe in learning by building — turning concepts into real projects, solvi
 
 <!-- ==================== MY JOURNEY ==================== -->
 
-## 🚀 My Journey
+<h2>🚀 My Journey</h2>
 
 <table>
 <tr>
 
 <td align="center">
-🎓<br>
-<b>CSE Student</b><br>
-<sub>Building my CS foundation</sub>
+
+🎓  
+<b>CSE Student</b>
+
+<br><br>
+
+Building my Computer Science foundation
+
 </td>
 
-<td>→</td>
-
 <td align="center">
-☕<br>
-<b>Java & DSA</b><br>
-<sub>Learning & problem solving</sub>
+→
 </td>
 
-<td>→</td>
-
 <td align="center">
-💻<br>
-<b>Full-Stack Development</b><br>
-<sub>Currently learning</sub>
+
+☕  
+<b>Java & DSA</b>
+
+<br><br>
+
+Learning • Problem Solving • LeetCode
+
 </td>
 
-<td>→</td>
+<td align="center">
+→
+</td>
 
 <td align="center">
-🎯<br>
-<b>Software Developer</b><br>
-<sub>My career goal</sub>
+
+💻  
+<b>Full-Stack Development</b>
+
+<br><br>
+
+Learning frontend & backend development
+
+</td>
+
+<td align="center">
+→
+</td>
+
+<td align="center">
+
+🎯  
+<b>Software Developer</b>
+
+<br><br>
+
+Building • Learning • Growing
+
 </td>
 
 </tr>
 </table>
-
----
 <!-- ==================== TECH STACK ==================== -->
 
 ## 🛠️ Tech Stack
