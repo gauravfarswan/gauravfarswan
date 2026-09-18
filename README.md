@@ -54,8 +54,6 @@ I believe in learning by building — turning concepts into real projects, solvi
 🎓  
 <b>CSE Student</b>
 
-<br><br>
-
 Building my Computer Science foundation
 
 </td>
@@ -68,8 +66,6 @@ Building my Computer Science foundation
 
 ☕  
 <b>Java & DSA</b>
-
-<br><br>
 
 Learning • Problem Solving • LeetCode
 
@@ -84,8 +80,6 @@ Learning • Problem Solving • LeetCode
 💻  
 <b>Full-Stack Development</b>
 
-<br><br>
-
 Learning frontend & backend development
 
 </td>
@@ -98,8 +92,6 @@ Learning frontend & backend development
 
 🎯  
 <b>Software Developer</b>
-
-<br><br>
 
 Building • Learning • Growing
 
